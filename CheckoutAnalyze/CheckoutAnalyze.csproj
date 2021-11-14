@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net45</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>CheckoutAnalyze 1.1</AssemblyName>
+    <ApplicationIcon>clipboard.ico</ApplicationIcon>
+    <PackageLicenseFile>License.txt</PackageLicenseFile>
+    <Description>This progran is for converting .pdf and .xls files to .json array</Description>
+    <Authors>Platon Zvonkov</Authors>
+    <PackageId>CheckoutAnalyze 1.1</PackageId>
+    <Version>1.1.0</Version>
+    <Product>CheckoutAnalyze 1.1</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ExcelDataReader" Version="3.6.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="sautinsoft.pdffocus" Version="8.0.6.21" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\License.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
