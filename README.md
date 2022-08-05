@@ -1,4 +1,4 @@
 # Checkout_Analyze
-Commercial Program for creating JSON array for 1С"Бухгалтерия" from pfd, xls, xlsx files.
+Commercial Program for documents automatisation.
 
 Created for ООО «ПрофСтройКреп», 
