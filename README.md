@@ -1,4 +1,4 @@
 # Checkout_Analyze
-Commercial Program for documents automatisation.
+RealLife Commercial Program for documents automatisation.
 
-Created for ООО «ПрофСтройКреп», 
+Created for ООО «ПрофСтройКреп», some functional features are cut off due to NDA
